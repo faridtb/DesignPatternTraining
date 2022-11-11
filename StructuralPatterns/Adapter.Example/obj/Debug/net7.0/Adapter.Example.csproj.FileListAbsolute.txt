@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Adapter.Example\bin\Debug\net7.0\Adapter.Example.exe
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Adapter.Example\bin\Debug\net7.0\Adapter.Example.deps.json
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Adapter.Example\bin\Debug\net7.0\Adapter.Example.runtimeconfig.json
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Adapter.Example\bin\Debug\net7.0\Adapter.Example.dll
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Adapter.Example\bin\Debug\net7.0\Adapter.Example.pdb
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Adapter.Example\obj\Debug\net7.0\Adapter.Example.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Adapter.Example\obj\Debug\net7.0\Adapter.Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Adapter.Example\obj\Debug\net7.0\Adapter.Example.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Adapter.Example\obj\Debug\net7.0\Adapter.Example.AssemblyInfo.cs
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Adapter.Example\obj\Debug\net7.0\Adapter.Example.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Adapter.Example\obj\Debug\net7.0\Adapter.Example.dll
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Adapter.Example\obj\Debug\net7.0\refint\Adapter.Example.dll
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Adapter.Example\obj\Debug\net7.0\Adapter.Example.pdb
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Adapter.Example\obj\Debug\net7.0\Adapter.Example.genruntimeconfig.cache
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Adapter.Example\obj\Debug\net7.0\ref\Adapter.Example.dll

@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Singleton.Example\bin\Debug\net7.0\Singleton.Example.exe
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Singleton.Example\bin\Debug\net7.0\Singleton.Example.deps.json
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Singleton.Example\bin\Debug\net7.0\Singleton.Example.runtimeconfig.json
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Singleton.Example\bin\Debug\net7.0\Singleton.Example.dll
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Singleton.Example\bin\Debug\net7.0\Singleton.Example.pdb
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Singleton.Example\obj\Debug\net7.0\Singleton.Example.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Singleton.Example\obj\Debug\net7.0\Singleton.Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Singleton.Example\obj\Debug\net7.0\Singleton.Example.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Singleton.Example\obj\Debug\net7.0\Singleton.Example.AssemblyInfo.cs
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Singleton.Example\obj\Debug\net7.0\Singleton.Example.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Singleton.Example\obj\Debug\net7.0\Singleton.Example.dll
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Singleton.Example\obj\Debug\net7.0\refint\Singleton.Example.dll
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Singleton.Example\obj\Debug\net7.0\Singleton.Example.pdb
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Singleton.Example\obj\Debug\net7.0\Singleton.Example.genruntimeconfig.cache
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Singleton.Example\obj\Debug\net7.0\ref\Singleton.Example.dll

@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Factory\bin\Debug\net7.0\Factory.Example.exe
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Factory\bin\Debug\net7.0\Factory.Example.deps.json
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Factory\bin\Debug\net7.0\Factory.Example.runtimeconfig.json
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Factory\bin\Debug\net7.0\Factory.Example.dll
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Factory\bin\Debug\net7.0\Factory.Example.pdb
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Factory\obj\Debug\net7.0\Factory.Example.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Factory\obj\Debug\net7.0\Factory.Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Factory\obj\Debug\net7.0\Factory.Example.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Factory\obj\Debug\net7.0\Factory.Example.AssemblyInfo.cs
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Factory\obj\Debug\net7.0\Factory.Example.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Factory\obj\Debug\net7.0\Factory.Example.dll
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Factory\obj\Debug\net7.0\refint\Factory.Example.dll
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Factory\obj\Debug\net7.0\Factory.Example.pdb
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Factory\obj\Debug\net7.0\Factory.Example.genruntimeconfig.cache
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Factory\obj\Debug\net7.0\ref\Factory.Example.dll

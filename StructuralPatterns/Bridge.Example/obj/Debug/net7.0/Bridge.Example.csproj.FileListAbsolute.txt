@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Bridge.Example\obj\Debug\net7.0\Bridge.Example.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Bridge.Example\obj\Debug\net7.0\Bridge.Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Bridge.Example\obj\Debug\net7.0\Bridge.Example.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Bridge.Example\obj\Debug\net7.0\Bridge.Example.AssemblyInfo.cs
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Bridge.Example\obj\Debug\net7.0\Bridge.Example.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Bridge.Example\bin\Debug\net7.0\Bridge.Example.exe
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Bridge.Example\bin\Debug\net7.0\Bridge.Example.deps.json
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Bridge.Example\bin\Debug\net7.0\Bridge.Example.runtimeconfig.json
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Bridge.Example\bin\Debug\net7.0\Bridge.Example.dll
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Bridge.Example\bin\Debug\net7.0\Bridge.Example.pdb
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Bridge.Example\obj\Debug\net7.0\Bridge.Example.dll
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Bridge.Example\obj\Debug\net7.0\refint\Bridge.Example.dll
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Bridge.Example\obj\Debug\net7.0\Bridge.Example.pdb
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Bridge.Example\obj\Debug\net7.0\Bridge.Example.genruntimeconfig.cache
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Bridge.Example\obj\Debug\net7.0\ref\Bridge.Example.dll

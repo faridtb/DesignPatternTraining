@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\AbstractFactory.Example\bin\Debug\net7.0\AbstractFactory.Example.exe
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\AbstractFactory.Example\bin\Debug\net7.0\AbstractFactory.Example.deps.json
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\AbstractFactory.Example\bin\Debug\net7.0\AbstractFactory.Example.runtimeconfig.json
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\AbstractFactory.Example\bin\Debug\net7.0\AbstractFactory.Example.dll
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\AbstractFactory.Example\bin\Debug\net7.0\AbstractFactory.Example.pdb
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\AbstractFactory.Example\obj\Debug\net7.0\AbstractFactory.Example.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\AbstractFactory.Example\obj\Debug\net7.0\AbstractFactory.Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\AbstractFactory.Example\obj\Debug\net7.0\AbstractFactory.Example.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\AbstractFactory.Example\obj\Debug\net7.0\AbstractFactory.Example.AssemblyInfo.cs
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\AbstractFactory.Example\obj\Debug\net7.0\AbstractFactory.Example.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\AbstractFactory.Example\obj\Debug\net7.0\AbstractFactory.Example.dll
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\AbstractFactory.Example\obj\Debug\net7.0\refint\AbstractFactory.Example.dll
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\AbstractFactory.Example\obj\Debug\net7.0\AbstractFactory.Example.pdb
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\AbstractFactory.Example\obj\Debug\net7.0\AbstractFactory.Example.genruntimeconfig.cache
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\AbstractFactory.Example\obj\Debug\net7.0\ref\AbstractFactory.Example.dll

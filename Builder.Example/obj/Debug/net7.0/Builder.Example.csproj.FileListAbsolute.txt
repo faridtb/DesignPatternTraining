@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Builder.Example\bin\Debug\net7.0\Builder.Example.exe
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Builder.Example\bin\Debug\net7.0\Builder.Example.deps.json
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Builder.Example\bin\Debug\net7.0\Builder.Example.runtimeconfig.json
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Builder.Example\bin\Debug\net7.0\Builder.Example.dll
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Builder.Example\bin\Debug\net7.0\Builder.Example.pdb
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Builder.Example\obj\Debug\net7.0\Builder.Example.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Builder.Example\obj\Debug\net7.0\Builder.Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Builder.Example\obj\Debug\net7.0\Builder.Example.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Builder.Example\obj\Debug\net7.0\Builder.Example.AssemblyInfo.cs
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Builder.Example\obj\Debug\net7.0\Builder.Example.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Builder.Example\obj\Debug\net7.0\Builder.Example.dll
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Builder.Example\obj\Debug\net7.0\refint\Builder.Example.dll
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Builder.Example\obj\Debug\net7.0\Builder.Example.pdb
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Builder.Example\obj\Debug\net7.0\Builder.Example.genruntimeconfig.cache
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\Builder.Example\obj\Debug\net7.0\ref\Builder.Example.dll
