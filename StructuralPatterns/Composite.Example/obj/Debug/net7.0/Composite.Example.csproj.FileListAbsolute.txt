@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Composite.Example\bin\Debug\net7.0\Composite.Example.exe
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Composite.Example\bin\Debug\net7.0\Composite.Example.deps.json
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Composite.Example\bin\Debug\net7.0\Composite.Example.runtimeconfig.json
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Composite.Example\bin\Debug\net7.0\Composite.Example.dll
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Composite.Example\bin\Debug\net7.0\Composite.Example.pdb
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Composite.Example\obj\Debug\net7.0\Composite.Example.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Composite.Example\obj\Debug\net7.0\Composite.Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Composite.Example\obj\Debug\net7.0\Composite.Example.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Composite.Example\obj\Debug\net7.0\Composite.Example.AssemblyInfo.cs
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Composite.Example\obj\Debug\net7.0\Composite.Example.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Composite.Example\obj\Debug\net7.0\Composite.Example.dll
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Composite.Example\obj\Debug\net7.0\refint\Composite.Example.dll
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Composite.Example\obj\Debug\net7.0\Composite.Example.pdb
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Composite.Example\obj\Debug\net7.0\Composite.Example.genruntimeconfig.cache
+C:\Users\User\Desktop\Tranining .Net\Tranining\DesignPatterns\StructuralPatterns\Composite.Example\obj\Debug\net7.0\ref\Composite.Example.dll
